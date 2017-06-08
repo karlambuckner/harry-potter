@@ -1,0 +1,11 @@
+img {
+  border-radius: 20%;
+}
+
+p {
+  font-size: 22px;
+}
+
+#answer, #result {
+  display: none;
+}
